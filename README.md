@@ -68,5 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# gobarberweb
->>>>>>> d809d505901e713c1b9e76ca0bdd96ca30a8bca2
+
